@@ -12,6 +12,9 @@ This project is designed to design and implement a smart home automation system 
 # Hardware:
 
 - Raspberry Pi 3 Module: Central processing unit for the system.
+  <img width="280" alt="Raspberry pi" src="https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/10ce1cc3-feff-497e-a370-6e1442e57aa2">
+
+  
 - PIR (Passive Infrared) Sensor: Detects motion in the room.
 - DHT11 Sensor: Measures temperature and humidity in the room.
 - MQ2 Gas Sensor: Monitors gas levels in the environment.
