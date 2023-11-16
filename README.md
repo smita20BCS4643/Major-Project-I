@@ -37,7 +37,7 @@ This project is designed to design and implement a smart home automation system 
 
 - Buzzer: The buzzer is integrated with the MQ2 gas sensor. In the event of a gas leak, the buzzer alerts users audibly, enhancing safety measures.
   
-   7.  <img width="121" alt="buzzer" src="https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/5c23f7b9-5f06-4f58-bc05-7b806a202490">
+   7.  <img width="161" alt="buzzer" src="https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/5c23f7b9-5f06-4f58-bc05-7b806a202490">
 
 - Jumper Wires:} Jumper wires establish connections between the components on the breadboard, creating a seamless electrical pathway.
   
