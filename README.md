@@ -39,14 +39,32 @@ This project is designed to design and implement a smart home automation system 
   
    7.  <img width="161" alt="buzzer" src="https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/5c23f7b9-5f06-4f58-bc05-7b806a202490">
 
-- Jumper Wires:} Jumper wires establish connections between the components on the breadboard, creating a seamless electrical pathway.
+- Jumper Wires: Jumper wires establish connections between the components on the breadboard, creating a seamless electrical pathway.
   
    8.  <img width="261" alt="jumper wire" src="https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/3738546d-87e9-4169-b728-c1876a1d31dd">
+   
+- Resistor: A resistor is included in the LED circuit to control the current flow, preventing damage to the LED. The specific resistor value is chosen based on the LED's specifications.
+
+  9.  <img width="262" alt="resistors" src="https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/4cba1253-7e8f-4a99-b13a-589ce42f4748">
+
 
 ### Software:
 
+- Raspbian: Raspbian is the official operating system for Raspberry Pi, based on the Debian Linux distribution, optimized for Raspberry Pi's ARM architecture.
+
+  <img width="213" alt="raspbian" src="https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/e3925a39-2f9b-4fba-86d7-762eda66c447">
+
+
 - MQTT (Message Queuing Telemetry Transport) Protocol: Used for communication between Raspberry Pi and the MQTT Dashboard, ensuring secure data exchange.
+
+  <img width="156" alt="mqtt dashboard" src="https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/717f192a-9a30-4ab4-bdf0-7522dd4cb2b6">
+
+  
 - ThinkSpeak: Platform for centralized storage and analysis of sensor data.
+
+ ![download](https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/409e90f1-27c8-4ef5-8853-024b946d9002)
+
+
 
 ### User Interfaces:
 
@@ -55,7 +73,7 @@ This project is designed to design and implement a smart home automation system 
 
 ### Programming Languages:
 
-- Possibly Python: Commonly used for programming Raspberry Pi devices.
+- Python: Commonly used for programming Raspberry Pi devices.
 
 ### Communication:
 
