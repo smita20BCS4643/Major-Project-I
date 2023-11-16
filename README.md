@@ -97,3 +97,31 @@ Wireless Communication:
 ### Environmental Monitoring:
 
 - Environmental Sensors: Used for monitoring temperature, humidity, motion, and gas levels in the smart home environment.
+
+
+## Flowchart
+
+![pfinalroject io drawio](https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/9453dcf3-5052-44c5-8221-d60bc89ff7e7)
+
+
+## Hardware configuration - PCB Design
+![pcb design](https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/e989fbaf-b6f9-488c-a565-8e0959f5077c)
+
+## Fritzing simulation 
+![fri](https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/f7b036ab-235b-48a2-92ff-50467f349e98)
+
+## Actual Hardware setup
+
+![IMG_20231020_154908](https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/424c5f94-e39e-4c07-9ea1-473344338928)
+![IMG-20231024-WA0025](https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/92d3b3bd-067d-4414-b1b9-1159ac229de8)
+![IMG_20231020_155045](https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/28aa784d-94b9-4276-b06b-f428c201e48d)
+
+## Result and output
+### Mobile Application 
+![WhatsApp Image 2023-11-09 at 12 46 56](https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/685bcb21-c529-4d86-812b-e60c73e90d16)
+### Hardware
+![IMG-20231024-WA0024](https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/98927ed2-db6c-420f-aa72-b8d26f169d19)
+
+### Cloud
+<img width="663" alt="Picture1" src="https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/5d8878f2-37f9-48e1-b5df-2423a4edb2cc">
+
