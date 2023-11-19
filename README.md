@@ -45,7 +45,7 @@ This project is designed to design and implement a smart home automation system 
    
 - Resistor: A resistor is included in the LED circuit to control the current flow, preventing damage to the LED. The specific resistor value is chosen based on the LED's specifications.
 
-  9.  <img width="262" alt="resistors" src="https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/4cba1253-7e8f-4a99-b13a-589ce42f4748">
+  9.  <img width="267" alt="resistors" src="https://github.com/smita20BCS4643/Major-Project-I/assets/101444257/4cba1253-7e8f-4a99-b13a-589ce42f4748">
 
 
 ### Software:
